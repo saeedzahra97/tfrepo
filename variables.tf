@@ -3,7 +3,7 @@ variable "myami" {
   description = "Ubuntu 24.04"
 }
 
-variable "instype" {
+variable "instype1" {
     default = "t2.micro"
     description = "Free Tier Instance"
 }
